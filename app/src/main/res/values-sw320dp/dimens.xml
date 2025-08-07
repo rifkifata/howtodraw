@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Responsive text sizes for small screens -->
+    <dimen name="title_text_size_large">20sp</dimen>
+    <dimen name="title_text_size_medium">18sp</dimen>
+    <dimen name="title_text_size_small">16sp</dimen>
+    <dimen name="subtitle_text_size">12sp</dimen>
+    
+    <!-- Grid dimensions for small screens -->
+    <dimen name="grid_image_size">180dp</dimen>
+    <dimen name="grid_spacing">6dp</dimen>
+    <dimen name="grid_margin">8dp</dimen>
+    <dimen name="grid_min_height">150dp</dimen>
+</resources> 

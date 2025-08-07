@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="16dp"
+    android:viewportWidth="24"
+    android:viewportHeight="16">
+    <!-- Background biru yang lebih gelap -->
+    <path android:fillColor="#1E3A8A" android:pathData="M0,0h24v16h-24z"/>
+    <!-- Salib putih horizontal yang lebih tebal -->
+    <path android:fillColor="#FFFFFF" android:pathData="M0,6h24v4h-24z"/>
+    <!-- Salib putih vertikal yang lebih tebal -->
+    <path android:fillColor="#FFFFFF" android:pathData="M10,0h4v16h-4z"/>
+    <!-- Salib merah horizontal yang lebih tebal -->
+    <path android:fillColor="#DC2626" android:pathData="M0,7h24v2h-24z"/>
+    <!-- Salib merah vertikal yang lebih tebal -->
+    <path android:fillColor="#DC2626" android:pathData="M11,0h2v16h-2z"/>
+    <!-- Diagonal putih kiri atas ke kanan bawah (lebih tebal) -->
+    <path android:fillColor="#FFFFFF" android:pathData="M0,0l4,0l20,13.33l0,2.67l-4,0l-20,-13.33z"/>
+    <!-- Diagonal putih kanan atas ke kiri bawah (lebih tebal) -->
+    <path android:fillColor="#FFFFFF" android:pathData="M24,0l-4,0l-20,13.33l0,2.67l4,0l20,-13.33z"/>
+    <!-- Diagonal merah kiri atas ke kanan bawah (lebih tebal) -->
+    <path android:fillColor="#DC2626" android:pathData="M0,0l2,0l22,14.67l0,1.33l-2,0l-22,-14.67z"/>
+    <!-- Diagonal merah kanan atas ke kiri bawah (lebih tebal) -->
+    <path android:fillColor="#DC2626" android:pathData="M24,0l-2,0l-22,14.67l0,1.33l2,0l22,-14.67z"/>
+</vector> 

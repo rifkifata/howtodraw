@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/headerLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@drawable/header_background"
+    android:padding="8dp"
+    android:gravity="center_vertical">
+
+    <!-- Burger Menu Button -->
+    <TextView
+        android:id="@+id/burgerButton"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:text="☰"
+        android:textSize="24sp"
+        android:gravity="center"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:padding="0dp"
+        android:contentDescription="Menu"
+        android:layout_marginEnd="8dp" />
+
+    <!-- Home Button (default: gone) -->
+    <TextView
+        android:id="@+id/homeButton"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:text="🏠"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:padding="0dp"
+        android:contentDescription="Home"
+        android:layout_marginEnd="8dp"
+        android:visibility="gone" />
+
+    <!-- Spacer -->
+    <View
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <!-- Theme Settings Button -->
+    <TextView
+        android:id="@+id/themeButton"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:text="👧"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:padding="0dp"
+        android:contentDescription="Theme Settings"
+        android:layout_marginEnd="4dp" />
+
+    <!-- Language Settings Button -->
+    <TextView
+        android:id="@+id/languageButton"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:text="🇺🇸"
+        android:textSize="16sp"
+        android:gravity="center"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:padding="0dp"
+        android:contentDescription="Language Settings" />
+
+</LinearLayout> 

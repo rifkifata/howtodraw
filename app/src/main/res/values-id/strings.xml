@@ -1,0 +1,200 @@
+<resources>
+    <string name="app_name">Menggambar Mobil</string>
+
+    <!-- Main Menu -->
+    <string name="main_title">🚗 Menggambar Mobil 🚗</string>
+    <string name="main_title_short">🚗 Menggambar Mobil 🚗</string>
+    <string name="main_subtitle">Pilih mobil yang ingin kamu gambar!</string>
+    <string name="language_settings">Pengaturan Bahasa</string>
+    <string name="cancel">Batal</string>
+
+    <!-- Tutorial Activity -->
+    <string name="tutorial_title">Tutorial Menggambar Mobil: %1$s</string>
+    <string name="step_indicator">Langkah %1$d dari %2$d</string>
+    <string name="tutorial_instructions">Geser ke kiri/kanan untuk melihat langkah selanjutnya</string>
+    <string name="back_button">Kembali</string>
+    <string name="select_language">Pilih Bahasa</string>
+    <string name="error_no_tutorial_files">Tidak ada file tutorial ditemukan untuk mobil ini.</string>
+    <string name="error_loading_tutorial">Terjadi kesalahan saat memuat tutorial. Silakan coba lagi.</string>
+    <string name="reward_dialog_title">Hadiah!</string>
+    <string name="reward_dialog_message">Tonton iklan untuk membuka langkah berikutnya lebih cepat, atau tunggu beberapa detik.</string>
+    <string name="reward_dialog_wait_button">Tunggu</string>
+    <string name="reward_dialog_watch_ad_button">Tonton Iklan</string>
+    <string name="countdown_time_remaining">Sisa waktu: %1$d detik</string>
+    <string name="countdown_dialog_message">Tunggu sebentar untuk membuka langkah berikutnya, atau tonton iklan untuk mempercepat.</string>
+    <string name="countdown_dialog_title">Tunggu Sebentar</string>
+
+    <!-- Step Descriptions -->
+    <!-- Car Names for GridView -->
+    <string name="car_name_car">Mobil</string>
+    <string name="car_name_car_front_view">Mobil Tampak Depan</string>
+    <string name="car_name_firetruck">Mobil Pemadam</string>
+    <string name="car_name_lamborghini">Lamborghini</string>
+    <string name="car_name_monster_truck">Monster Truck</string>
+    <string name="car_name_police_car">Mobil Polisi</string>
+    <string name="car_name_race_car">Mobil Balap</string>
+    <string name="car_name_school_bus">Bus Sekolah</string>
+    <string name="car_name_tractor">Traktor</string>
+    <string name="car_name_truck">Truk</string>
+    <string name="step_1">Mulai dengan menggambar bentuk dasar mobil (persegi panjang untuk badan mobil)</string>
+    <string name="step_2">Tambahkan dua lingkaran di bawah sebagai roda</string>
+    <string name="step_3">Gambar atap mobil di atas badan mobil</string>
+    <string name="step_4">Tambahkan jendela di bagian atap</string>
+    <string name="step_5">Gambar pintu dan detail garis pada badan mobil</string>
+    <string name="step_6">Tambahkan lampu depan dan belakang</string>
+    <string name="step_7">Tambahkan spion dan pegangan pintu</string>
+    <string name="step_8">Beri detail pada roda (velg, ban)</string>
+    <string name="step_9">Tambahkan bayangan dan detail akhir</string>
+    <string name="step_10">Warnai mobil sesuai keinginanmu</string>
+    <string name="step_11">Hasil akhir mobil yang keren!</string>
+    <string name="step_generic">Langkah %1$d</string>
+
+    <!-- Car Step Descriptions -->
+
+    <!-- Step untuk Car (20 step)-->
+    <string name="step_1_car">Buat atap mobil dengan bentuk setengah oval di bagian atas.</string>
+    <string name="step_2_car">Gambarlah badan mobil yang melengkung di bawah atap.</string>
+    <string name="step_3_car">Tambahkan garis melengkung di bagian depan mobil.</string>
+    <string name="step_4_car">Buat dua lengkungan di sisi kiri bawah untuk tempat roda.</string>
+    <string name="step_5_car">Gambar dua jendela di bagian atas badan mobil.</string>
+    <string name="step_6_car">Tambahkan empat lingkaran sebagai roda mobil.</string>
+    <string name="step_7_car">Buat detail lingkaran kecil di dalam roda sebagai velg.</string>
+    <string name="step_8_car">Tambahkan detail pintu, garis bodi, dan spion pada mobil.</string>
+    <string name="step_9_car">Gambarlah bemper depan mobil.</string>
+    <string name="step_10_car">Tambahkan dua lingkaran besar di depan sebagai lampu dan gambar mulut tersenyum.</string>
+    <string name="step_11_car">Tambahkan detail lampu belakang mobil.</string>
+    <string name="step_12_car">Gambar knalpot di bagian belakang mobil.</string>
+    <string name="step_13_car">Tambahkan detail pegangan pintu.</string>
+    <string name="step_14_car">Gambar garis-garis pada kap mobil.</string>
+    <string name="step_15_car">Tambahkan detail pada kaca spion.</string>
+    <string name="step_16_car">Warnai bagian bodi mobil.</string>
+    <string name="step_17_car">Warnai bagian roda dan velg.</string>
+    <string name="step_18_car">Warnai jendela dan lampu mobil.</string>
+    <string name="step_19_car">Tambahkan bayangan dan efek cahaya.</string>
+    <string name="step_20_car">Hasil akhir mobil kartun yang lucu!</string>
+    <!-- Step untuk Car Front View (10 step)-->
+    <string name="step_1_car_front_view">Buat bentuk dasar mobil tampak depan dengan garis melengkung di bagian atas dan samping.</string>
+    <string name="step_2_car_front_view">Tambahkan garis untuk bemper bawah dan dua kotak kecil sebagai dasar roda.</string>
+    <string name="step_3_car_front_view">Gambarlah dua bidang kaca depan dan kap mesin dengan dua garis melengkung.</string>
+    <string name="step_4_car_front_view">Tambahkan empat lingkaran di kiri dan kanan sebagai lampu depan mobil.</string>
+    <string name="step_5_car_front_view">Buat bentuk grill (lubang udara) di tengah bemper depan.</string>
+    <string name="step_6_car_front_view">Tambahkan detail pada kaca depan dan kap mesin, seperti garis dan lengkungan.</string>
+    <string name="step_7_car_front_view">Gambarlah dua kursi, spion tengah, dan setir di dalam kaca depan.</string>
+    <string name="step_8_car_front_view">Tambahkan spion samping di kiri dan kanan mobil.</string>
+    <string name="step_9_car_front_view">Buat detail pada grill depan dan tambahkan logo di tengahnya.</string>
+    <string name="step_10_car_front_view">Warnai seluruh bagian mobil untuk hasil akhir yang menarik!</string>
+
+    <!-- Step untuk Firetruck (10 step)-->
+    <string name="step_1_firetruck">Buat bentuk dasar depan mobil pemadam dengan dua kotak besar dan satu persegi panjang di bawahnya.</string>
+    <string name="step_2_firetruck">Tambahkan detail lampu di atas kabin dan bentuk samping kanan mobil.</string>
+    <string name="step_3_firetruck">Gambarlah roda depan dan detail kabin samping kanan.</string>
+    <string name="step_4_firetruck">Buat garis badan mobil ke belakang dan tambahkan lengkungan roda belakang.</string>
+    <string name="step_5_firetruck">Tambahkan jendela dan pintu di bagian belakang serta roda belakang.</string>
+    <string name="step_6_firetruck">Gambarlah tangga di atas mobil dengan dua garis panjang sejajar.</string>
+    <string name="step_7_firetruck">Tambahkan detail rangka tangga di atas mobil.</string>
+    <string name="step_8_firetruck">Lengkapi detail rangka tangga dan garis-garis pada badan mobil.</string>
+    <string name="step_9_firetruck">Tambahkan detail akhir seperti lampu, grill, dan pegangan pintu.</string>
+    <string name="step_10_firetruck">Warnai seluruh bagian mobil pemadam agar terlihat menarik!</string>
+
+    <!-- Step untuk Lamborghini (10 step)-->
+    <string name="step_1_lamborghini">Buat dua lingkaran besar sebagai roda mobil sport.</string>
+    <string name="step_2_lamborghini">Tambahkan detail velg pada kedua roda.</string>
+    <string name="step_3_lamborghini">Gambarlah lengkungan di atas roda sebagai fender depan dan belakang.</string>
+    <string name="step_4_lamborghini">Buat garis atap dan dasar bodi mobil yang ramping dan rendah.</string>
+    <string name="step_5_lamborghini">Sambungkan garis bodi depan dan belakang, lalu tambahkan detail velg.</string>
+    <string name="step_6_lamborghini">Gambarlah garis melengkung untuk kap mesin dan atap mobil.</string>
+    <string name="step_7_lamborghini">Tambahkan pintu, jendela, dan detail garis pada bodi mobil.</string>
+    <string name="step_8_lamborghini">Buat detail lampu depan, lampu belakang, dan spion samping.</string>
+    <string name="step_9_lamborghini">Pertegas semua detail garis dan bentuk mobil sport.</string>
+    <string name="step_10_lamborghini">Warnai seluruh bagian mobil agar terlihat seperti Lamborghini asli!</string>
+
+    <!-- Step untuk Monster Truck (20 step)-->
+    <string name="step_1_monster_truck">Buat bentuk dasar kabin mobil dengan kotak di bagian atas dan garis panjang ke belakang.</string>
+    <string name="step_2_monster_truck">Tambahkan detail bodi samping dengan garis bergerigi untuk fender dan bak belakang.</string>
+    <string name="step_3_monster_truck">Gambarlah bagian depan mobil dan lengkungan fender depan serta belakang.</string>
+    <string name="step_4_monster_truck">Perjelas bentuk depan mobil dengan menambahkan garis vertikal dan horizontal di bagian depan.</string>
+    <string name="step_5_monster_truck">Tebalkan garis bodi dan tambahkan detail pada kabin agar tampak lebih nyata.</string>
+    <string name="step_6_monster_truck">Gambarlah kaca depan dan samping dengan garis melengkung di dalam kabin.</string>
+    <string name="step_7_monster_truck">Buat dua oval besar di kiri bawah untuk roda belakang dan depan kiri.</string>
+    <string name="step_8_monster_truck">Tambahkan dua oval besar di kanan bawah untuk roda depan dan belakang kanan.</string>
+    <string name="step_9_monster_truck">Tebalkan keempat roda dengan menambahkan garis luar pada setiap oval.</string>
+    <string name="step_10_monster_truck">Gambarlah lingkaran kecil di tengah setiap roda sebagai pelek.</string>
+    <string name="step_11_monster_truck">Tambahkan detail pelek di keempat roda dengan lingkaran dan garis kecil.</string>
+    <string name="step_12_monster_truck">Buat pola bergerigi di ban keempat roda agar tampak seperti ban monster truck.</string>
+    <string name="step_13_monster_truck">Buat spion di kedua sisi kabin mobil.</string>
+    <string name="step_14_monster_truck">Gambarlah dua lampu depan dan grill di bagian depan mobil.</string>
+    <string name="step_15_monster_truck">Tambahkan detail lampu dan grill dengan garis-garis vertikal.</string>
+    <string name="step_16_monster_truck">Buat bak belakang mobil dengan garis miring dan horizontal.</string>
+    <string name="step_17_monster_truck">Tambahkan detail garis pada bak belakang untuk memperjelas bentuknya.</string>
+    <string name="step_18_monster_truck">Gambarlah sumbu roda depan dan belakang yang menghubungkan kedua roda kanan dan kiri.</string>
+    <string name="step_19_monster_truck">Warnai lampu depan dengan warna kuning dan grill dengan warna gelap.</string>
+    <string name="step_20_monster_truck">Warnai seluruh bodi mobil dengan warna hijau, roda dengan abu-abu, dan detail lainnya sesuai keinginan.</string>
+
+    <!-- Step untuk Police Car (10 step)-->
+
+
+    <string name="step_1_police_car">Warnai background biru sebagai dasar gambar.</string>
+    <string name="step_2_police_car">Buat bentuk dasar bodi mobil dengan garis melengkung dan garis lurus untuk atap, kap, dan bagasi.</string>
+    <string name="step_3_police_car">Tambahkan garis lengkung dan vertikal untuk mempertegas bodi dan fender mobil.</string>
+    <string name="step_4_police_car">Gambarlah dua jendela besar di bagian atas bodi mobil.</string>
+    <string name="step_5_police_car">Tambahkan detail pintu, gagang pintu, lampu depan, dan lampu belakang.</string>
+    <string name="step_6_police_car">Buat dua roda lengkap dengan velg di bagian bawah mobil.</string>
+    <string name="step_7_police_car">Tambahkan detail spion, bumper, dan garis bawah bodi mobil.</string>
+    <string name="step_8_police_car">Gambarlah lampu sirine di atas atap dan detail tambahan pada kap depan.</string>
+    <string name="step_9_police_car">Tambahkan logo bintang dan tulisan POLICE di pintu mobil.</string>
+    <string name="step_10_police_car">Warnai seluruh bagian mobil polisi sesuai contoh, termasuk jendela, bodi, roda, lampu, dan sirine.</string>
+
+
+    <!-- Step untuk Race Car (10 step)-->
+    <string name="step_1_race_car">Warnai background biru sebagai dasar gambar.</string>
+    <string name="step_2_race_car">Buat bentuk dasar bodi mobil balap dengan garis melengkung dan lancip di bagian depan.</string>
+    <string name="step_3_race_car">Tambahkan detail permukaan bodi dan garis pemisah pada bagian samping dan atas mobil.</string>
+    <string name="step_4_race_car">Gambarlah sayap depan mobil balap dengan bentuk kotak di bagian depan bawah.</string>
+    <string name="step_5_race_car">Tambahkan roda depan lengkap dengan detail velg dan suspensi.</string>
+    <string name="step_6_race_car">Buat roda belakang di sisi kiri dan kanan beserta detail velg.</string>
+    <string name="step_7_race_car">Gambarlah sayap belakang mobil balap di bagian belakang atas.</string>
+    <string name="step_8_race_car">Tambahkan detail kokpit dan helm pembalap di bagian tengah mobil.</string>
+    <string name="step_9_race_car">Perjelas semua detail, garis, dan aksen pada bodi mobil balap.</string>
+    <string name="step_10_race_car">Warnai seluruh bagian mobil balap sesuai contoh, termasuk bodi merah, roda, dan helm pembalap.</string>
+
+    <!-- Step untuk School Bus (10 step)-->
+    <string name="step_1_school_bus">Buat bidang persegi panjang horizontal di bagian atas sebagai atap bus.</string>
+    <string name="step_2_school_bus">Tambahkan garis vertikal dan horizontal di bawahnya membentuk bodi bus.</string>
+    <string name="step_3_school_bus">Perjelas bentuk bodi bus dengan menutup sisi kanan dan menebalkan garis bawah.</string>
+    <string name="step_4_school_bus">Buat dua lengkungan di bawah bodi untuk ruang roda depan dan belakang.</string>
+    <string name="step_5_school_bus">Gambarlah dua lingkaran di dalam lengkungan sebagai roda bus.</string>
+    <string name="step_6_school_bus">Tambahkan lampu depan dan detail garis di bagian depan bus.</string>
+    <string name="step_7_school_bus">Buat jendela-jendela persegi panjang di sepanjang sisi bus.</string>
+    <string name="step_8_school_bus">Tulis tulisan &quot;SCHOOL BUS&quot; di sisi bus dan tambahkan detail garis.</string>
+    <string name="step_9_school_bus">Warnai seluruh bodi bus dengan warna kuning dan jendela biru muda.</string>
+    <string name="step_10_school_bus">Selesai! Bus sekolahmu sudah lengkap dan siap digunakan.</string>
+
+    <!-- Step untuk Tractor (10 step)-->
+    <string name="step_1_tractor">Buat bentuk trapesium sebagai dasar kabin traktor di bagian atas.</string>
+    <string name="step_2_tractor">Tambahkan dua persegi panjang di dalam trapesium untuk jendela depan dan samping.</string>
+    <string name="step_3_tractor">Buat atap kabin dan mulai gambar garis lengkung ke bawah untuk bodi traktor.</string>
+    <string name="step_4_tractor">Lanjutkan garis bodi ke bawah dan ke kanan, membentuk bagian depan dan bawah traktor.</string>
+    <string name="step_5_tractor">Tambahkan lingkaran besar di belakang sebagai roda belakang dan lingkaran kecil di depan sebagai roda depan.</string>
+    <string name="step_6_tractor">Buat detail lingkaran pada roda dan tambahkan knalpot di atas kabin.</string>
+    <string name="step_7_tractor">Tambahkan detail kisi-kisi mesin di depan dan aksen pada bodi traktor.</string>
+    <string name="step_8_tractor">Perjelas semua detail, tambahkan lampu depan dan aksen pada roda.</string>
+    <string name="step_9_tractor">Warnai bodi traktor dengan warna kuning dan merah, serta jendela biru muda.</string>
+    <string name="step_10_tractor">Selesai! Traktor siap digunakan di ladang.</string>
+
+    <!-- Step untuk Truck (10 step)-->
+    <string name="step_1_truck">Buat dua persegi panjang, satu besar (bak) dan satu kecil (kabin) di sebelah kanan.</string>
+    <string name="step_2_truck">Tambahkan garis miring dari atas kabin ke depan untuk membentuk kap truk.</string>
+    <string name="step_3_truck">Sambungkan garis-garis membentuk bodi depan dan bawah truk.</string>
+    <string name="step_4_truck">Buat lengkungan di bawah bak dan kabin untuk ruang roda depan dan belakang.</string>
+    <string name="step_5_truck">Tambahkan dua lingkaran besar sebagai roda depan dan belakang.</string>
+    <string name="step_6_truck">Buat detail lingkaran pada roda dan tambahkan spion serta lampu depan.</string>
+    <string name="step_7_truck">Tambahkan jendela pada kabin dan garis-garis detail pada bak truk.</string>
+    <string name="step_8_truck">Perjelas semua detail, tambahkan gagang pintu dan aksen pada bodi.</string>
+    <string name="step_9_truck">Warnai truk dengan warna hijau pada bak dan abu-abu pada roda serta detail lainnya.</string>
+    <string name="step_10_truck">Selesai! Truk siap digunakan untuk mengangkut barang.</string>
+
+    <!-- AdMob Ad Unit IDs -->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="rewarded_ad_unit_id">ca-app-pub-3940256099942544/5224354917</string>
+</resources>

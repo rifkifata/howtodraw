@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Grid dimensions for medium screens (tablets) -->
+    <dimen name="grid_image_size">180dp</dimen>
+    <dimen name="grid_spacing">12dp</dimen>
+    <dimen name="grid_margin">16dp</dimen>
+    <dimen name="grid_min_height">300dp</dimen>
+</resources> 

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    
+    <!-- Background circle -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M24,4C12.95,4 4,12.95 4,24s8.95,20 20,20 20,-8.95 20,-20S35.05,4 24,4z" />
+    
+    <!-- Boy face -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,12m-6,0a6,6 0 1,1 12,0a6,6 0 1,1 -12,0" />
+    
+    <!-- Eyes -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M20,18m-1,0a1,1 0 1,1 2,0a1,1 0 1,1 -2,0" />
+    
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M28,18m-1,0a1,1 0 1,1 2,0a1,1 0 1,1 -2,0" />
+    
+    <!-- Smile -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M20,22 Q24,26 28,22" />
+    
+    <!-- Body -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M18,28 L30,28 L30,36 L18,36 Z" />
+    
+    <!-- Arms -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M16,30 L22,30 L22,34 L16,34 Z" />
+    
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M26,30 L32,30 L32,34 L26,34 Z" />
+    
+    <!-- Legs -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M20,36 L24,36 L24,42 L20,42 Z" />
+    
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M24,36 L28,36 L28,42 L24,42 Z" />
+
+</vector> 
